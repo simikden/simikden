@@ -1,5 +1,12 @@
 ### <p align="center">  Привет, меня зовут Максим 🦈 </p>
 
+<div align="center">
+
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/gizzaelli)</a>
+  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/qr/3FK62VRVYNYTE1)</a>
+
+</div>
+
 * Занимаюсь аналитикой данных и продуктовой аналитикой
 * Имею опыт проведения статистических исследований 
 * Вот некоторые мои проекты:  
