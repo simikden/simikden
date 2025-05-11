@@ -1,7 +1,7 @@
 ### <p align="center">  Привет, меня зовут Максим 🦈 </p>
 
 <div align="center">
-<div class="tenor-gif-embed" data-postid="12542974" data-share-method="host" data-aspect-ratio="0.805861" data-width="100%"><a href="https://tenor.com/view/shark-dance-dancing-shark-gif-12542974">Shark Dance GIF</a>from <a href="https://tenor.com/search/shark-gifs">Shark GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
   <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/gizzaelli)</a>
   <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/qr/3FK62VRVYNYTE1)</a>
 
