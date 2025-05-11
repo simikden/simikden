@@ -1,5 +1,9 @@
 ### <p align="center">  Привет, меня зовут Максим 🦈 </p>
 
+<p align="center">
+  <img src="https://github.com/simikden/simikden/blob/1354121460a287eba689e99df01c7f2507a619e1/shark-dance.gif"  alt="animated" />
+</p>
+
 <div align="center">
 
   <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/gizzaelli)</a>
